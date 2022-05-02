@@ -1,0 +1,75 @@
+C:\Users\flori\PycharmProjects\cybersec_cryptography\venv\Scripts\python.exe C:/Users/flori/PycharmProjects/cybersec_cryptography/exercice_2_5/exercice_2_5.py
+-------------------------------------------------------
+Taille du mot de passe: 4
+Mot de passe en clair: Y)rb
+Mot de passe hashé: b'$2b$16$uWUUPyjLxTabqRm8NQex/O3bhkQILy0N1FGEnfByOPVUMTxJZpxLa'
+Temps d'exécution: 3.6192972660064697
+-------------------------------------------------------
+-------------------------------------------------------
+Taille du mot de passe: 5
+Mot de passe en clair: -EErI
+Mot de passe hashé: b'$2b$16$jEEICZN/jcLtmMhmWkmqZOruA9VidGS8vuo/HRX1HEaLu/WalPg6.'
+Temps d'exécution: 3.580427646636963
+-------------------------------------------------------
+-------------------------------------------------------
+Taille du mot de passe: 6
+Mot de passe en clair: rhjB^{
+Mot de passe hashé: b'$2b$16$/OSNr9CCdJyiw8uEK0U1z.LHpw14M4l88AEo1I5zENyJ3UOLfCebe'
+Temps d'exécution: 3.50864839553833
+-------------------------------------------------------
+-------------------------------------------------------
+Taille du mot de passe: 7
+Mot de passe en clair: F2o>enI
+Mot de passe hashé: b'$2b$16$hI./QirGQ1CKGXOEYPWfb./KKcY3WiUhOOrAcZXOz2/2idmDLNGeq'
+Temps d'exécution: 3.6322574615478516
+-------------------------------------------------------
+-------------------------------------------------------
+Taille du mot de passe: 8
+Mot de passe en clair: |3q4a5Jt
+Mot de passe hashé: b'$2b$16$ANGFIAPBX04FwhVxLyCOwefSfrZW5o1IpDXoQCjU5fYtRDlRemPT6'
+Temps d'exécution: 4.174837112426758
+-------------------------------------------------------
+-------------------------------------------------------
+Taille du mot de passe: 9
+Mot de passe en clair: pFw(81XK1
+Mot de passe hashé: b'$2b$16$BgLOzLfYLoVgRFOkeGKTL.iYX6BVUohyJlF57g9uPI.bSY.cr8qKq'
+Temps d'exécution: 4.358347177505493
+-------------------------------------------------------
+-------------------------------------------------------
+Taille du mot de passe: 10
+Mot de passe en clair: nZ4[lq^!0B
+Mot de passe hashé: b'$2b$16$fGsJ7OEC4f0q9/7WMVCz9u2CiqjDYHvqjCO/IUCPfl6LWIcXOqkl2'
+Temps d'exécution: 4.245646953582764
+-------------------------------------------------------
+-------------------------------------------------------
+Taille du mot de passe: 11
+Mot de passe en clair: eoRN@UzjEYU
+Mot de passe hashé: b'$2b$16$B4WlF782vq7JF2dPlNuHnui5ZjuL3GXyvbgcCQEDBzo2QLXRX8NGm'
+Temps d'exécution: 3.5664944648742676
+-------------------------------------------------------
+-------------------------------------------------------
+Taille du mot de passe: 12
+Mot de passe en clair: >}kZcv@m+|^Q
+Mot de passe hashé: b'$2b$16$Ta8DNZj2lebadgTy9WC7DOSbBrQc7ASc8MejRoMuoG/PvBR0tgsD6'
+Temps d'exécution: 3.5006725788116455
+-------------------------------------------------------
+-------------------------------------------------------
+Taille du mot de passe: 13
+Mot de passe en clair: IuX7yrBc!VlhG
+Mot de passe hashé: b'$2b$16$qQ8lCijlJpAkIdbMvDS90Ospwnvo5/32o9hH7qdYujbLVYl9WThey'
+Temps d'exécution: 3.4687230587005615
+-------------------------------------------------------
+-------------------------------------------------------
+Taille du mot de passe: 14
+Mot de passe en clair: R*skqwyI|yEpV-
+Mot de passe hashé: b'$2b$16$eb8aZsCXWgDwYDJTl0Xn9.mRMnUSLpKCDiQJC7rgjbHrfoR8sJrsu'
+Temps d'exécution: 3.4777586460113525
+-------------------------------------------------------
+-------------------------------------------------------
+Taille du mot de passe: 15
+Mot de passe en clair: 74^S//*qCt5+i)^
+Mot de passe hashé: b'$2b$16$f3/XG8rPiK0nVnVDw2ZPAeEeEf3aCM48FBIIzPTmqa2U/5cMdF4Cq'
+Temps d'exécution: 3.864699363708496
+-------------------------------------------------------
+
+Process finished with exit code 0

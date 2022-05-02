@@ -1,0 +1,104 @@
+C:\Users\flori\PycharmProjects\cybersec_cryptography\venv\Scripts\python.exe C:/Users/flori/PycharmProjects/cybersec_cryptography/exercice_2_10/exercice_2_10.py
+Entrez votre mot de passe: exercice_2_10
+-------------------------------------------------------
+Coût de salage utilisé: 4
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 0.000997781753540039 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 5
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 0.0019936561584472656 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 6
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 0.0030221939086914062 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 7
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 0.0069811344146728516 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 8
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 0.013936996459960938 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 9
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 0.027895212173461914 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 10
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 0.05984044075012207 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 11
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 0.1186819076538086 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 12
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 0.23038411140441895 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 13
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 0.47065043449401855 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 14
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 0.9486055374145508 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 15
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 1.8815624713897705 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 16
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 3.727834701538086 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 17
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 7.424860715866089 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 18
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 15.03801703453064 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 19
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 27.849541902542114 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 20
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 55.72401571273804 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 21
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 111.37736892700195 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 22
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 242.96542739868164 secondes
+-------------------------------------------------------
+-------------------------------------------------------
+Coût de salage utilisé: 23
+Votre mot de passe est correct !
+Temps pour vérifier le mot de passe: 484.99646162986755 secondes
+-------------------------------------------------------
+
+Process finished with exit code 0

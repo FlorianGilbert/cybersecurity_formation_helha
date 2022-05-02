@@ -1,0 +1,166 @@
+C:\Users\flori\PycharmProjects\cybersec_cryptography\venv\Scripts\python.exe C:/Users/flori/PycharmProjects/cybersec_cryptography/exercice_2_2.py
+Entrez votre mot de passe: cryptography_is_fun
+Mot de passe à hasher:  cryptography_is_fun
+-------------------------------------------------------
+Coût du sel: 4
+Sel: b'$2b$04$FcWjURRVZmufZLGpJwEqYO'
+Mot de passe hashé: b'$2b$04$FcWjURRVZmufZLGpJwEqYOB39K1emGY.VvJS5jlK/J7UrAA/y6bn2'
+Temps de génération du sel: 0.0009970664978027344
+Temps de hashage du mot de passe: 0.000997304916381836
+Temps total pour générer le sel et hasher le mot de passe: 0.0019943714141845703
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 5
+Sel: b'$2b$05$02qEHTPNtaJSQhijECBXLe'
+Mot de passe hashé: b'$2b$05$02qEHTPNtaJSQhijECBXLerp1uPJazuzWXBxm7kb8VMTHpVu3w2lS'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 0.0019936561584472656
+Temps total pour générer le sel et hasher le mot de passe: 0.0019936561584472656
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 6
+Sel: b'$2b$06$cWOpeCja43uamEOvM5imhO'
+Mot de passe hashé: b'$2b$06$cWOpeCja43uamEOvM5imhOA37P6S/miGHPiMNvqFZoBbYuoCTb/fm'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 0.003989696502685547
+Temps total pour générer le sel et hasher le mot de passe: 0.003989696502685547
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 7
+Sel: b'$2b$07$1eikzzwJ4Mq/qG1csVVrLu'
+Mot de passe hashé: b'$2b$07$1eikzzwJ4Mq/qG1csVVrLuifMu8LTjG8IRKpFcYr5GXtRLe6I6p5C'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 0.00698089599609375
+Temps total pour générer le sel et hasher le mot de passe: 0.00698089599609375
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 8
+Sel: b'$2b$08$B9A9TL2st61SQajvrq/GUu'
+Mot de passe hashé: b'$2b$08$B9A9TL2st61SQajvrq/GUuMHMxR3QzfhJyWCKBF667tuv0NTceHqu'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 0.014960050582885742
+Temps total pour générer le sel et hasher le mot de passe: 0.014960050582885742
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 9
+Sel: b'$2b$09$5H5BTLj98u4dYyYhHA1z3e'
+Mot de passe hashé: b'$2b$09$5H5BTLj98u4dYyYhHA1z3eg8TzN0OGIxgKMhSeiyTZ46XBPRM71E2'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 0.026928186416625977
+Temps total pour générer le sel et hasher le mot de passe: 0.026928186416625977
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 10
+Sel: b'$2b$10$3mztHlKfOhnAoyFvaSfeou'
+Mot de passe hashé: b'$2b$10$3mztHlKfOhnAoyFvaSfeoumre0fJAcl9WpTPQrkKbvImjI5xk.7bq'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 0.05388689041137695
+Temps total pour générer le sel et hasher le mot de passe: 0.05388689041137695
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 11
+Sel: b'$2b$11$ZFPEWPizUo16LSTkzMKH5.'
+Mot de passe hashé: b'$2b$11$ZFPEWPizUo16LSTkzMKH5.eMnoWN0kddDaWA1uQnaas17fLUQZxai'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 0.11067342758178711
+Temps total pour générer le sel et hasher le mot de passe: 0.11067342758178711
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 12
+Sel: b'$2b$12$WZWRqWj6RXvsXrRPQiLRLu'
+Mot de passe hashé: b'$2b$12$WZWRqWj6RXvsXrRPQiLRLumwEVmk8tX8wtUd42JHR3CrfXW3Uc2Cy'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 0.21744823455810547
+Temps total pour générer le sel et hasher le mot de passe: 0.21744823455810547
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 13
+Sel: b'$2b$13$GxGeYBt.0hkUvzpsybHsd.'
+Mot de passe hashé: b'$2b$13$GxGeYBt.0hkUvzpsybHsd.tHUhpSu8PluQVSqvJSDWl8L0UMkmRh2'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 0.4328429698944092
+Temps total pour générer le sel et hasher le mot de passe: 0.4328429698944092
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 14
+Sel: b'$2b$14$Ihx3FsKzO5RMq1yunDyjJO'
+Mot de passe hashé: b'$2b$14$Ihx3FsKzO5RMq1yunDyjJO73snwTHSzyDu28TX0vrpppgexpIEgUS'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 0.8646574020385742
+Temps total pour générer le sel et hasher le mot de passe: 0.8646574020385742
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 15
+Sel: b'$2b$15$NwjHqrgk9XTj.w.KF8WsOO'
+Mot de passe hashé: b'$2b$15$NwjHqrgk9XTj.w.KF8WsOOcNslMYiis/Io5QYPaYTlV9dsyWFZXYm'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 1.7862238883972168
+Temps total pour générer le sel et hasher le mot de passe: 1.7862238883972168
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 16
+Sel: b'$2b$16$v5xKq0qhI3UKyuA/isa81.'
+Mot de passe hashé: b'$2b$16$v5xKq0qhI3UKyuA/isa81.LmJxXFGEmvUi/G1DacTdXMzLXNfWTZq'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 3.4508039951324463
+Temps total pour générer le sel et hasher le mot de passe: 3.4508039951324463
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 17
+Sel: b'$2b$17$KZo1WgZghIZIk3B6SuXdwu'
+Mot de passe hashé: b'$2b$17$KZo1WgZghIZIk3B6SuXdwurDWnGSbRv4Atua42ipBILzXWCDY508K'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 7.627574682235718
+Temps total pour générer le sel et hasher le mot de passe: 7.627574682235718
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 18
+Sel: b'$2b$18$A6zXKvEHSgheOblbcnrLeO'
+Mot de passe hashé: b'$2b$18$A6zXKvEHSgheOblbcnrLeOmmn13SwIrqasApzyvlH6zQAs7rtzZfa'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 14.01160478591919
+Temps total pour générer le sel et hasher le mot de passe: 14.01160478591919
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 19
+Sel: b'$2b$19$H7zm1FNJkL1IhfMGnMkHEO'
+Mot de passe hashé: b'$2b$19$H7zm1FNJkL1IhfMGnMkHEOtqec.2BIBzNglPdquKAuIZGJ5GrGMzq'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 28.160335063934326
+Temps total pour générer le sel et hasher le mot de passe: 28.160335063934326
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 20
+Sel: b'$2b$20$T.tVPMoomuvWyergwhvofu'
+Mot de passe hashé: b'$2b$20$T.tVPMoomuvWyergwhvofuSU4/C2HbxogG6i2./7mf1jcx8/Dg8li'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 55.811864137649536
+Temps total pour générer le sel et hasher le mot de passe: 55.811864137649536
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 21
+Sel: b'$2b$21$lJ2xWKVyfzM5CTg8IEZ7Ee'
+Mot de passe hashé: b'$2b$21$lJ2xWKVyfzM5CTg8IEZ7EeC5X5LsrQ2quJAVn/bKrndnP615Hljly'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 110.31724882125854
+Temps total pour générer le sel et hasher le mot de passe: 110.31724882125854
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 22
+Sel: b'$2b$22$Hv/K.sqKTCyVZY9m43p.8u'
+Mot de passe hashé: b'$2b$22$Hv/K.sqKTCyVZY9m43p.8ud3smupJfuh6orURFR.TYPdfyW/NFH/C'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 223.66505074501038
+Temps total pour générer le sel et hasher le mot de passe: 223.66505074501038
+-------------------------------------------------------
+-------------------------------------------------------
+Coût du sel: 23
+Sel: b'$2b$23$yAc5ie58L0CS5Gj/S6yGdu'
+Mot de passe hashé: b'$2b$23$yAc5ie58L0CS5Gj/S6yGduwVNeHC7TVnBqumsXpxjOybxh0szHKBi'
+Temps de génération du sel: 0.0
+Temps de hashage du mot de passe: 458.9734547138214
+Temps total pour générer le sel et hasher le mot de passe: 458.9734547138214
+-------------------------------------------------------
+Temps total de l'exécution du programme: 905.5405166149139
+
+Process finished with exit code 0
