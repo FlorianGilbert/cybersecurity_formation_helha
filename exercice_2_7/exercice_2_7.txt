@@ -1,0 +1,21 @@
+C:\Users\flori\PycharmProjects\cybersec_cryptography\venv\Scripts\python.exe C:/Users/flori/PycharmProjects/cybersec_cryptography/exercice_2_7/exercice_2_7.py
+------------------------------------------------------
+Résultats
+Mot de passe en clair: my_Super/Secure-Password
+Sel: b'$2b$16$LkiQy.DHTfhm3jAoxWRuN.'
+Mot de passe hashé: b'$2b$16$LkiQy.DHTfhm3jAoxWRuN.kWaVrSBNqyWN2NeFt5KltULvjeiZKrC'
+------------------------------------------------------
+------------------------------------------------------
+Résultats
+Mot de passe en clair: my_Super/Secure_Password
+Sel: b'$2b$16$y9gpealjDuBVPWYtQlgBDe'
+Mot de passe hashé: b'$2b$16$y9gpealjDuBVPWYtQlgBDe780YOQH1hoJxfolC.T0vxsFx1grsAmO'
+------------------------------------------------------
+------------------------------------------------------
+Résultats
+Mot de passe en clair: my_Super/SecurePassword
+Sel: b'$2b$16$7v5MS/MfFRAHlW0h1QHU4O'
+Mot de passe hashé: b'$2b$16$7v5MS/MfFRAHlW0h1QHU4Oy1nQJXrW6PCvrouCBWasdoIt1ce/.4S'
+------------------------------------------------------
+
+Process finished with exit code 0
